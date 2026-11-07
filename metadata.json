@@ -1,0 +1,6 @@
+{
+  "name": "Vinàqui Snack - Oran",
+  "description": "Site officiel et commande en ligne de Vinàqui Snack à Oran (Mirocho). Découvrez notre carte complète : Naan cheese, Pizzas au feu de bois, Burgers gourmets, Tacos gratinés et Box savoureuses avec livraison rapide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
